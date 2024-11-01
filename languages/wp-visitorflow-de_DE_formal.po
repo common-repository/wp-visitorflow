@@ -1,0 +1,2337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-vsitorflow\n"
+"POT-Creation-Date: 2020-02-13 15:05+0100\n"
+"PO-Revision-Date: 2020-02-13 15:05+0100\n"
+"Last-Translator: Onno <contact@datacodedesign.de>\n"
+"Language-Team: Onno\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: includes/classes/class-wp-list-table-wpvf.php:150
+msgid "List View"
+msgstr "Listendarstellung"
+
+#: includes/classes/class-wp-list-table-wpvf.php:151
+msgid "Excerpt View"
+msgstr "Auswahl-Ansicht"
+
+#: includes/classes/class-wp-list-table-wpvf.php:320
+msgid "No items found."
+msgstr "Keine Einträge gefunden."
+
+#: includes/classes/class-wp-list-table-wpvf.php:446
+msgid "Select bulk action"
+msgstr ""
+
+#: includes/classes/class-wp-list-table-wpvf.php:448
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/classes/class-wp-list-table-wpvf.php:458
+msgid "Apply"
+msgstr "Anwenden"
+
+#: includes/classes/class-wp-list-table-wpvf.php:508
+#: includes/classes/class-wp-list-table-wpvf.php:1269
+msgid "Show more details"
+msgstr "Zeige mehr Details"
+
+#: includes/classes/class-wp-list-table-wpvf.php:563
+msgid "Filter by date"
+msgstr "Nach Datum filtern"
+
+#: includes/classes/class-wp-list-table-wpvf.php:565
+msgid "All dates"
+msgstr "Alle Daten"
+
+#: includes/classes/class-wp-list-table-wpvf.php:578
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: includes/classes/class-wp-list-table-wpvf.php:637
+#: includes/classes/class-wp-list-table-wpvf.php:649
+msgid "No comments"
+msgstr "Keine Kommentare"
+
+#: includes/classes/class-wp-list-table-wpvf.php:649
+msgid "No approved comments"
+msgstr ""
+
+#: includes/classes/class-wp-list-table-wpvf.php:765
+msgid "First page"
+msgstr "Erste Seite"
+
+#: includes/classes/class-wp-list-table-wpvf.php:775
+msgid "Previous page"
+msgstr "Vorige Seite"
+
+#: includes/classes/class-wp-list-table-wpvf.php:782
+#: includes/classes/class-wp-list-table-wpvf.php:785
+msgid "Current Page"
+msgstr "Aktuelle Seite"
+
+#: includes/classes/class-wp-list-table-wpvf.php:798
+msgid "Next page"
+msgstr "Nächste Seite"
+
+#: includes/classes/class-wp-list-table-wpvf.php:808
+msgid "Last page"
+msgstr "Letzte Seite"
+
+#: includes/classes/class-wp-list-table-wpvf.php:1018
+msgid "Select All"
+msgstr "Alle auswählen"
+
+#: includes/classes/class-wp-visitorflow-admin-export.php:37
+#: includes/classes/class-wp-visitorflow-admin-overview.php:107
+#: includes/classes/class-wp-visitorflow-admin-overview.php:194
+#: includes/classes/class-wp-visitorflow-admin-overview.php:301
+#: includes/classes/class-wp-visitorflow-admin-settings.php:37
+#: includes/classes/class-wp-visitorflow-admin-single.php:40
+#: includes/classes/class-wp-visitorflow-admin-website.php:44
+#: includes/views/export/table.php:4 includes/views/settings/logfile.php:3
+#: includes/views/settings/maintenance.php:3
+#: includes/views/settings/privacy.php:3 includes/views/settings/storage.php:3
+#: includes/views/tables/table-bots.php:3
+#: includes/views/tables/table-dbinfo.php:3
+#: includes/views/tables/table-exclusions.php:3
+#: includes/views/tables/table-keywords.php:3
+#: includes/views/tables/table-uastrings.php:3
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sie haben keine Berechtigung zum Aufrufen dieser Seite."
+
+#: includes/classes/class-wp-visitorflow-admin-export.php:41
+#: includes/classes/class-wp-visitorflow-admin-export.php:57
+#: includes/classes/class-wp-visitorflow-admin.php:107
+#: includes/classes/class-wp-visitorflow-admin.php:108
+msgid "Data Export"
+msgstr "Datenexport"
+
+#: includes/classes/class-wp-visitorflow-admin-export.php:42
+msgid "App"
+msgstr "App"
+
+#: includes/classes/class-wp-visitorflow-admin-export.php:58
+msgid "Export recorded data to CSV."
+msgstr ""
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:39
+msgid "No data yet."
+msgstr "Bisher keine Daten."
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:41
+msgid "This is probably due to a fresh installation."
+msgstr "Dies liegt vermutlich an der noch neuen Installation des Plugins."
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:43
+msgid ""
+"By default, no visits are recorded originating from admin pages or from "
+"administrators visiting your website. You can change this settings in the <a "
+"class=\"wpvf\" href=\"?page=wpvf_admin_settings&tab=storing\">settings "
+"section</a>."
+msgstr ""
+"By default, no visits are recorded originating from admin pages or from "
+"administrators visiting your website. You can change this settings in the <a "
+"class=\"wpvf\" href=\"?page=wpvf_admin_settings&tab=storing\">settings "
+"section</a>."
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:53
+msgid "Rate WP Visitorflow"
+msgstr "Bewerten Sie WP VisitorFlow"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:56
+msgid "Support"
+msgstr "Hilfe-Forum"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:89
+msgid "Quick Answers to Routine Inquiries"
+msgstr "Schnelle Antworten auf Routineabfragen"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:90
+msgid "Short Summary"
+msgstr "Kurzer Überblick"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:91
+msgid "Page Views and Visits within the Last 30 Days"
+msgstr "Seitenaufrufe und Besucher in den letzten 30 Tagen"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:92
+msgid "Latest Search Keys Words"
+msgstr "Letzte Suchbegriffe"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:93
+msgid "Recorded Bot Visits"
+msgstr "aufgezeichnete Bot-Besuche"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:94
+msgid "Excluded Page Views"
+msgstr "Ausgeschlossene Seitenaufrufe"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:95
+#: includes/views/settings/maintenance.php:430
+msgid "Database Summary"
+msgstr "Zusammenfassung der Aufzeichnungen"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:96
+msgid "Most Visited Pages within the last 7 Days"
+msgstr "Meistbesuchte Seiten innerhalb der letzten 7 Tage"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:97
+msgid "Latest HTTP User-Agent Strings"
+msgstr "Jüngste HTTP-User-Agent-Strings"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:123
+#: includes/classes/class-wp-visitorflow-admin-page-timeframe.php:118
+msgid "Today"
+msgstr "Heute"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:124
+#: includes/classes/class-wp-visitorflow-admin-page-timeframe.php:119
+msgid "Yesterday"
+msgstr "Gestern"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:125
+#: includes/classes/class-wp-visitorflow-admin-page-timeframe.php:120
+msgid "Last 7 days"
+msgstr "Letzte 7 Tage"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:126
+#: includes/classes/class-wp-visitorflow-admin-page-timeframe.php:121
+msgid "Last 14 days"
+msgstr "Letzte 14 Tage"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:127
+#: includes/classes/class-wp-visitorflow-admin-page-timeframe.php:122
+msgid "Last 30 days"
+msgstr "Letzte 30 Tage"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:128
+#: includes/classes/class-wp-visitorflow-admin-page-timeframe.php:123
+msgid "Last 60 days"
+msgstr "Letzte 60 Tage"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:129
+#: includes/classes/class-wp-visitorflow-admin-page-timeframe.php:124
+msgid "Last 365 days"
+msgstr "Letzte 365 Tage"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:134
+#: includes/classes/class-wp-visitorflow-admin-single.php:132
+#: includes/classes/class-wp-visitorflow-admin-website.php:74
+msgid "Visitor Flow"
+msgstr "Besucherfluss"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:135
+msgid "Show me the Visitor Flow for"
+msgstr "Zeig mir den Besucherfluss für"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:148
+#: includes/classes/class-wp-visitorflow-admin-website.php:76
+msgid "Referrers"
+msgstr "Verweisende Seiten"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:149
+msgid "Where are my visitors coming from? "
+msgstr "Woher kommen meine Seitenbesucher?"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:162
+#: includes/classes/class-wp-visitorflow-admin-overview.php:337
+#: includes/views/analysis/flow-per-step.php:788
+#: includes/views/analysis/website-pages.php:219
+#: includes/views/tables/table-exclusions.php:15
+#: includes/views/tables/table-uastrings.php:36
+msgid "Page Views"
+msgstr "Seitenaufrufe"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:163
+msgid "What are my most viewed posts or pages? "
+msgstr "Was sind meine am häufigsten aufgerufenen Beiträge oder Seiten?"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:224
+#: includes/functions/wp-visitorflow-rest-api.php:220
+msgid "Visits"
+msgstr "Besuche"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:244
+#: includes/functions/wp-visitorflow-rest-api.php:237
+#: includes/views/settings/storage.php:327
+#: includes/views/tables/table-summary.php:36
+#: includes/views/tables/table-summary.php:45
+msgid "Page views"
+msgstr "Seitenaufrufe"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:338
+#: includes/views/analysis/website-pages.php:220
+#: includes/views/tables/table-exclusions.php:106
+msgid "Page"
+msgstr "Seite"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:339
+#: includes/views/tables/table-uastrings.php:37
+msgid "Last Visit"
+msgstr "Letzter Besuch"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:369
+#: includes/classes/class-wp-visitorflow-admin.php:173
+#: includes/classes/class-wp-visitorflow-admin.php:189
+#: includes/views/analysis/website-pages.php:103
+#: includes/views/analysis/website-referrers.php:96
+#: includes/views/analysis/website-referrers.php:346
+#: includes/views/analysis/website-single-flow.php:105
+#: includes/views/tables/table-keywords.php:72
+msgid "Flow"
+msgstr "Fluss"
+
+#: includes/classes/class-wp-visitorflow-admin-overview.php:371
+#: includes/views/analysis/website-referrers.php:327
+#: includes/views/analysis/website-visitors.php:151
+#: includes/views/settings/logfile.php:38
+#: includes/views/tables/table-bots.php:26
+#: includes/views/tables/table-dbinfo.php:24
+#: includes/views/tables/table-dbinfo.php:40
+#: includes/views/tables/table-exclusions.php:44
+#: includes/views/tables/table-exclusions.php:94
+#: includes/views/tables/table-exclusions.php:127
+#: includes/views/tables/table-exclusions.php:147
+#: includes/views/tables/table-keywords.php:50
+#: includes/views/tables/table-uastrings.php:55
+#, php-format
+msgid "%s ago"
+msgstr "vor %s"
+
+#: includes/classes/class-wp-visitorflow-admin-page-timeframe.php:160
+msgid "Start date:"
+msgstr "Start-Datum:"
+
+#: includes/classes/class-wp-visitorflow-admin-page-timeframe.php:163
+msgid "End date:"
+msgstr "End-Datum:"
+
+#: includes/classes/class-wp-visitorflow-admin-page-timeframe.php:166
+#: includes/views/analysis/flow-per-step.php:507
+#: includes/views/analysis/flow-per-step.php:602
+msgid "Go"
+msgstr "Los"
+
+#: includes/classes/class-wp-visitorflow-admin-page.php:104
+#: includes/classes/class-wp-visitorflow-admin.php:78
+#: includes/classes/class-wp-visitorflow-admin.php:80
+msgid "Overview"
+msgstr "Überblick"
+
+#: includes/classes/class-wp-visitorflow-admin-page.php:105
+#: includes/classes/class-wp-visitorflow-admin.php:90
+msgid "Full Website"
+msgstr "Ganze Webpräsenz"
+
+#: includes/classes/class-wp-visitorflow-admin-page.php:106
+#: includes/classes/class-wp-visitorflow-admin.php:99
+msgid "Single Page"
+msgstr "Einzelne Webseite"
+
+#: includes/classes/class-wp-visitorflow-admin-plots.php:80
+msgid "%d-%b %y"
+msgstr "%d-%b %y"
+
+#: includes/classes/class-wp-visitorflow-admin-plots.php:118
+#: includes/views/analysis/website-visitors.php:186
+#: includes/views/analysis/website-visitors.php:205
+#: includes/views/analysis/website-visitors.php:224
+#: includes/views/analysis/website-visitors.php:243
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: includes/classes/class-wp-visitorflow-admin-plots.php:127
+msgid "Others"
+msgstr "Andere"
+
+#: includes/classes/class-wp-visitorflow-admin-settings.php:42
+msgid "Storage"
+msgstr "Erfassung"
+
+#: includes/classes/class-wp-visitorflow-admin-settings.php:43
+msgid "Privacy"
+msgstr "Datenschutz"
+
+#: includes/classes/class-wp-visitorflow-admin-settings.php:44
+msgid "Maintenance"
+msgstr "Wartung"
+
+#: includes/classes/class-wp-visitorflow-admin-settings.php:45
+msgid "Logfile"
+msgstr "Logdatei"
+
+#: includes/classes/class-wp-visitorflow-admin-settings.php:61
+#: includes/classes/class-wp-visitorflow-admin.php:116
+#: includes/classes/class-wp-visitorflow-admin.php:117
+#: includes/classes/class-wp-visitorflow-admin.php:155
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/classes/class-wp-visitorflow-admin-single.php:110
+msgid "Selected post/page does not exist or has not been visited yet."
+msgstr ""
+"Die ausgewählte Seite bzw. der ausgewählte Beitrag existiert nicht oder "
+"wurde bisher noch nicht besucht."
+
+#: includes/classes/class-wp-visitorflow-admin-single.php:133
+msgid "Timeline"
+msgstr "Zeitdiagramm"
+
+#: includes/classes/class-wp-visitorflow-admin-single.php:148
+msgid "Single Page Timeline Plot"
+msgstr "Zeitdiagramm einer einzelnen Seite"
+
+#: includes/classes/class-wp-visitorflow-admin-single.php:149
+#, php-format
+msgid "Page views for page <strong>%s</strong>"
+msgstr "Aufrufe von Seite <strong>%s</strong>"
+
+#: includes/classes/class-wp-visitorflow-admin-single.php:156
+msgid "Single Page Visitor Flow"
+msgstr "Besucherfluss für eine einzelne Webseite"
+
+#: includes/classes/class-wp-visitorflow-admin-single.php:157
+#, php-format
+msgid "Visitor Flow towards and from page <strong>%s</strong>"
+msgstr "Besucherfluss zu und von der einzelnen Webseite <strong>%s</strong>"
+
+#: includes/classes/class-wp-visitorflow-admin-website.php:75
+#: includes/views/settings/storage.php:314
+#: includes/views/tables/table-summary.php:18
+#: includes/views/tables/table-summary.php:27
+msgid "Visitors"
+msgstr "Besucher"
+
+#: includes/classes/class-wp-visitorflow-admin-website.php:77
+msgid "Visited Pages"
+msgstr "Besuchte Seiten"
+
+#: includes/classes/class-wp-visitorflow-admin-website.php:83
+msgid "Website Visitors"
+msgstr "Seitenbesucher"
+
+#: includes/classes/class-wp-visitorflow-admin-website.php:84
+msgid ""
+"Distribution of remote client's browsers and operation systems and a "
+"detailed list of recent visitors"
+msgstr ""
+"Verteilung von Browsern und Betriebssystemen sowie eine detailierte Liste "
+"der letzten Webseitenbesucher"
+
+#: includes/classes/class-wp-visitorflow-admin-website.php:90
+msgid "Website Referrers"
+msgstr "Verweisende Webseiten"
+
+#: includes/classes/class-wp-visitorflow-admin-website.php:91
+msgid "The top referrers to your website."
+msgstr "Häufigste Verweise auf diese Webpräsenz"
+
+#: includes/classes/class-wp-visitorflow-admin-website.php:97
+msgid "Website Pages"
+msgstr "Webseiten"
+
+#: includes/classes/class-wp-visitorflow-admin-website.php:98
+msgid "The most visited pages on your website."
+msgstr "Am häufigsten besuchte Seiten"
+
+#: includes/classes/class-wp-visitorflow-admin-website.php:104
+msgid "Website Visitor Flow"
+msgstr "Besucherfluss auf der ganzen Webpräsenz"
+
+#: includes/classes/class-wp-visitorflow-admin-website.php:105
+msgid ""
+"The total visitor flow: step-by-step diagramm of the visitors interactions "
+"with your website"
+msgstr ""
+"Der gesamte Besucherfluss: Schritt-für-Schritt-Diagramm aller Webseiten-"
+"Interaktionen"
+
+#: includes/classes/class-wp-visitorflow-admin.php:68
+#: includes/classes/class-wp-visitorflow-admin.php:69
+msgid "VisitorFlow"
+msgstr "VisitorFlow"
+
+#: includes/classes/class-wp-visitorflow-admin.php:79
+msgid ""
+"Detailed web analytics and visualization of your website's visitor flow."
+msgstr ""
+"Detailierte Webanalyse und Visualisierung des Besucherflusses auf dieser "
+"Webpräsenz."
+
+#: includes/classes/class-wp-visitorflow-admin.php:89
+msgid "Full Website Analytics"
+msgstr "Analyse der ganzen Webpräsenz"
+
+#: includes/classes/class-wp-visitorflow-admin.php:98
+msgid "Single Page Analytics"
+msgstr "Analyse einzelner Seiten"
+
+#: includes/classes/class-wp-visitorflow-admin.php:167
+#: includes/classes/class-wp-visitorflow-admin.php:183
+msgid "WP VisitorFlow"
+msgstr "WP VisitorFlow"
+
+#: includes/classes/class-wp-visitorflow-admin.php:203
+msgid "months"
+msgstr "Monate"
+
+#: includes/classes/class-wp-visitorflow-admin.php:205
+msgid "days"
+msgstr "Tagen"
+
+#: includes/classes/class-wp-visitorflow-admin.php:207
+msgid "hours"
+msgstr "Stunden"
+
+#: includes/classes/class-wp-visitorflow-admin.php:209
+msgid "minutes"
+msgstr "Minuten"
+
+#: includes/classes/class-wp-visitorflow-maintenance.php:140
+#, php-format
+msgid "%s page hits older than %s cleaned."
+msgstr "%s Seitenaufrufe älter als der %s entfernt."
+
+#: includes/classes/class-wp-visitorflow-maintenance.php:154
+#: includes/views/settings/maintenance.php:106
+#, php-format
+msgid "%s pages older than %s cleaned."
+msgstr "%s Seiten älter als %s gelöscht."
+
+#: includes/classes/class-wp-visitorflow-maintenance.php:167
+#: includes/views/settings/maintenance.php:120
+#, php-format
+msgid "%s visits older than %s cleaned."
+msgstr "%s Besuche älter als %s gelöscht."
+
+#: includes/classes/class-wp-visitorflow-maintenance.php:177
+#: includes/views/settings/maintenance.php:129
+#, php-format
+msgid "%s meta entries older than %s cleaned."
+msgstr "%s Metadaten älter als %s gelöscht."
+
+#: includes/classes/class-wp-visitorflow-setup.php:144
+msgid "Initial page \"unknown\" added to pages table"
+msgstr "Seite \"unknown\" zur Datenbanktabelle hinzugefügt"
+
+#: includes/classes/class-wp-visitorflow-setup.php:159
+msgid "Initial page \"self\" added to pages table"
+msgstr "Seite \"self\" zur Datenbanktabelle hinzugefügt"
+
+#: includes/classes/class-wp-visitorflow-setup.php:175
+msgid "Front page added to pages table"
+msgstr "Startseite zur Datenbanktabelle hinzugefügt"
+
+#: includes/classes/class-wp-visitorflow-setup.php:240
+#, php-format
+msgid "New flow data start date = %s."
+msgstr "Neuer Startzeitpunkt  für Besucherflussdaten = %s."
+
+#: includes/classes/class-wp-visitorflow-setup.php:251
+#, php-format
+msgid "New db data start date = %s."
+msgstr "Neuer Startzeitpunkt  für Datenbank = %s."
+
+#: includes/views/analysis/flow-per-page.php:78
+msgid "No incoming flow to this page in the selected time interval."
+msgstr ""
+"Kein eingehender Besucherfluss zu dieser Seite im ausgewählten Zeitraum."
+
+#: includes/views/analysis/flow-per-page.php:82
+msgid "No outgoing flow from this page in the selected time interval."
+msgstr ""
+"Kein ausgehender Besucherfluss von dieser Seite im ausgewählten Zeitraum."
+
+#: includes/views/analysis/flow-per-page.php:88
+#, php-format
+msgid ""
+"%s incoming pages with threshold below %s clicks aggregated to \"Other pages"
+"\"."
+msgstr ""
+"%s eingehende Seiten liegen unter der Grenze von %s Aufrufen und wurden "
+"zusammengefasst unter  \"Weitere Seiten\"."
+
+#: includes/views/analysis/flow-per-page.php:93
+#, php-format
+msgid ""
+"%s outgoing pages with threshold below %s clicks aggregated to \"Other pages"
+"\"."
+msgstr ""
+"%s ausgehende Seiten liegen unter der Grenze von %s Aufrufen und wurden "
+"zusammengefasst unter  \"Weitere Seiten\"."
+
+#: includes/views/analysis/flow-per-page.php:98
+#: includes/views/analysis/flow-per-page.php:113
+#: includes/views/analysis/flow-per-step.php:532
+msgid "Show all pages"
+msgstr "Zusammenfassung aufheben"
+
+#: includes/views/analysis/flow-per-page.php:118
+#: includes/views/analysis/flow-per-step.php:537
+msgid "Show Top 50 only"
+msgstr "Zeige nur Top 50"
+
+#: includes/views/analysis/flow-per-page.php:123
+#: includes/views/analysis/flow-per-step.php:542
+msgid "Show Top 40 only"
+msgstr "Zeige nur Top 40"
+
+#: includes/views/analysis/flow-per-page.php:128
+#: includes/views/analysis/flow-per-step.php:547
+msgid "Show Top 30 only"
+msgstr "Zeige nur Top 30"
+
+#: includes/views/analysis/flow-per-page.php:133
+#: includes/views/analysis/flow-per-step.php:552
+msgid "Show Top 20 only"
+msgstr "Zeige nur Top 20"
+
+#: includes/views/analysis/flow-per-page.php:138
+#: includes/views/analysis/flow-per-step.php:557
+msgid "Show Top 10 only"
+msgstr "Zeige nur Top 10"
+
+#: includes/views/analysis/flow-per-page.php:168
+#: includes/views/analysis/flow-per-step.php:562
+msgid "Zoom in"
+msgstr "Vergrößern"
+
+#: includes/views/analysis/flow-per-page.php:173
+#: includes/views/analysis/flow-per-step.php:567
+msgid "Zoom out"
+msgstr "Verkleinern"
+
+#: includes/views/analysis/flow-per-page.php:336
+#, php-format
+msgid "Summary for Page \"%s\""
+msgstr "Zusammenfassung für Seite \"%s\""
+
+#: includes/views/analysis/flow-per-page.php:339
+msgid "Incoming page hits"
+msgstr "Eingehende Seitenaufrufe"
+
+#: includes/views/analysis/flow-per-page.php:343
+msgid "Outgoing page hits"
+msgstr "Ausgehende Seitenaufrufe"
+
+#: includes/views/analysis/flow-per-page.php:347
+msgid "Page views per day"
+msgstr "Seitenaufrufe pro Tag"
+
+#: includes/views/analysis/flow-per-page.php:351
+msgid "Page view duration"
+msgstr "Seitenaufrufdauer"
+
+#: includes/views/analysis/flow-per-page.php:355
+msgid "Exit rate"
+msgstr "Absprungrate"
+
+#: includes/views/analysis/flow-per-page.php:506
+#: includes/views/analysis/flow-per-step.php:943
+msgid "seconds"
+msgstr "Sekunden"
+
+#: includes/views/analysis/flow-per-page.php:506
+#: includes/views/analysis/flow-per-step.php:943
+msgid "page view duration"
+msgstr "Seitenaufrufdauer"
+
+#: includes/views/analysis/flow-per-page.php:510
+#: includes/views/analysis/flow-per-step.php:951
+msgid "Coming from an external website."
+msgstr "Von externer Seite kommend"
+
+#: includes/views/analysis/flow-per-page.php:512
+#: includes/views/analysis/flow-per-step.php:953
+msgid ""
+"Coming from an unknown external source, e.g. a bookmark or direct enter."
+msgstr ""
+"Von unbekannter Quelle kommend, z.B. direkter Aufruf oder über ein "
+"Lesezeichen."
+
+#: includes/views/analysis/flow-per-page.php:518
+#: includes/views/analysis/flow-per-page.php:567
+#: includes/views/analysis/flow-per-step.php:940
+#: includes/views/analysis/flow-per-step.php:976
+msgid "of all clicks at this step"
+msgstr "aller Klicks an diesem Schritt"
+
+#: includes/views/analysis/flow-per-page.php:550
+#: includes/views/analysis/flow-per-step.php:414
+msgid "Other pages"
+msgstr "Weitere Seiten"
+
+#: includes/views/analysis/flow-per-page.php:568
+#, php-format
+msgid "(includes %s pages with clicks below the threshold)"
+msgstr "(enthält %s Seitenaufrufe unter dem Genzwert)"
+
+#: includes/views/analysis/flow-per-step.php:418
+msgid "Other User Agents"
+msgstr "Andere User-Agents (Browser)"
+
+#: includes/views/analysis/flow-per-step.php:421
+msgid "Other User Agents/Versions"
+msgstr "Andere User-Agents/Versionen"
+
+#: includes/views/analysis/flow-per-step.php:424
+msgid "Other Operation Systems"
+msgstr "Andere Betriebssysteme"
+
+#: includes/views/analysis/flow-per-step.php:427
+msgid "Other Operation Systems/Versions"
+msgstr "Andere Betriebssysteme/Versionen"
+
+#: includes/views/analysis/flow-per-step.php:430
+msgid "Other Operation Systems/User Agents"
+msgstr "Andere User Agents/Betriebssysteme"
+
+#: includes/views/analysis/flow-per-step.php:478
+msgid "First step"
+msgstr "Erster Schritt"
+
+#: includes/views/analysis/flow-per-step.php:495
+msgid "Last step"
+msgstr "Letzter Schritt"
+
+#: includes/views/analysis/flow-per-step.php:517
+msgid "Filter data"
+msgstr "Datenfilter:"
+
+#: includes/views/analysis/flow-per-step.php:519
+msgid "on"
+msgstr "an"
+
+#: includes/views/analysis/flow-per-step.php:524
+msgid "off"
+msgstr "aus"
+
+#: includes/views/analysis/flow-per-step.php:530
+msgid "Pages per step"
+msgstr "Dargestellte Seitenanzahl"
+
+#: includes/views/analysis/flow-per-step.php:583
+msgid "Show only:"
+msgstr "Zeige nur Folgende:"
+
+#: includes/views/analysis/flow-per-step.php:630
+#: includes/views/analysis/single-timeline.php:48
+#: includes/views/analysis/website-pages.php:50
+#: includes/views/analysis/website-referrers.php:105
+#: includes/views/analysis/website-visitors.php:114
+msgid "No data found in the selected timeframe."
+msgstr "Keine Daten für den gewählten Zeitraum vorhanden."
+
+#: includes/views/analysis/flow-per-step.php:741
+#: includes/views/analysis/website-visitors.php:191
+msgid "User Agents"
+msgstr "User-Agent (Browser)"
+
+#: includes/views/analysis/flow-per-step.php:744
+msgid "User Agent Versions"
+msgstr "Browser-Version"
+
+#: includes/views/analysis/flow-per-step.php:747
+#: includes/views/analysis/website-visitors.php:229
+msgid "Operation Systems"
+msgstr "Betriebssysteme"
+
+#: includes/views/analysis/flow-per-step.php:750
+msgid "Operation System Versions"
+msgstr "Betriebssystemversionen"
+
+#: includes/views/analysis/flow-per-step.php:753
+msgid "Operation Systems/User Agents"
+msgstr "Betriebssystem/Browser"
+
+#: includes/views/analysis/flow-per-step.php:784
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+#: includes/views/analysis/flow-per-step.php:787
+msgid "Step on your Website"
+msgstr "Schritt auf Ihrer Webpräsenz"
+
+#: includes/views/analysis/flow-per-step.php:789
+msgid "Exit Rate"
+msgstr "Absprungrate"
+
+#: includes/views/analysis/flow-per-step.php:789
+msgid " (in %)"
+msgstr "(in %)"
+
+#: includes/views/analysis/flow-per-step.php:938
+msgid "click"
+msgstr "Klick"
+
+#: includes/views/analysis/flow-per-step.php:938
+msgid "clicks"
+msgstr "Klicks"
+
+#: includes/views/analysis/single-timeline.php:69
+msgid "Development of Page Views within the Selected Timeframe"
+msgstr "Zeitliche Entwicklung der Seitenaufrufe im ausgewählten Zeitraum"
+
+#: includes/views/analysis/website-pages.php:135
+msgid "Sum of all page views"
+msgstr "Summe aller Seitenaufrufe"
+
+#: includes/views/analysis/website-pages.php:215
+#, php-format
+msgid "The %s Most Visited Pages within the Selected Timeframe"
+msgstr ""
+"Die %s am häufigsten innerhalb des ausgewählten Zeitraums aufgerufenen "
+"Seiten "
+
+#: includes/views/analysis/website-pages.php:229
+msgid "Development of Top Page Views within the Selected Timeframe"
+msgstr ""
+"Zeitliche Entwicklung der Top-Seitenaufrufe innerhalb des ausgewäglten "
+"Zeitraums"
+
+#: includes/views/analysis/website-pages.php:248
+msgid "Top Page Views over Time of the Day"
+msgstr "Verteilung der Top-Seitenaufrufe über die Tageszeit"
+
+#: includes/views/analysis/website-pages.php:249
+#: includes/views/analysis/website-referrers.php:272
+#, php-format
+msgid "Data from %s to %s"
+msgstr "Daten vom %s bis %s"
+
+#: includes/views/analysis/website-referrers.php:137
+msgid "Sum of all referrer pages"
+msgstr "Summe aller verweisenden Seiten"
+
+#: includes/views/analysis/website-referrers.php:215
+#, php-format
+msgid "%s Top Referrers within the Selected Timeframe"
+msgstr "%s Top-Referrers innerhalb des ausgewählten Zeitraums"
+
+#: includes/views/analysis/website-referrers.php:218
+msgid "Counts"
+msgstr "Anzahl"
+
+#: includes/views/analysis/website-referrers.php:219
+msgid "Referrer"
+msgstr "Referrer"
+
+#: includes/views/analysis/website-referrers.php:228
+msgid "Search Engine Summary"
+msgstr "Suchmaschinen-Zusammenfassung"
+
+#: includes/views/analysis/website-referrers.php:251
+msgid "Development of Top Referrers within the Selected Timeframe"
+msgstr ""
+"Zeitliche Entwicklung der Top-Referrer innerhalb des ausgewählten Zeitraums"
+
+#: includes/views/analysis/website-referrers.php:271
+msgid "Top Referrers over Time of the Day"
+msgstr "Verteilung der Top-Referrer über die Tageszeit"
+
+#: includes/views/analysis/website-referrers.php:317
+msgid "Latest Search Key Words"
+msgstr "Letzte Suchmaschinen-Suchbegriffe"
+
+#: includes/views/analysis/website-referrers.php:363
+#: includes/views/tables/table-keywords.php:30
+msgid "Keywords"
+msgstr "Suchbegriffe"
+
+#: includes/views/analysis/website-referrers.php:364
+#: includes/views/tables/table-keywords.php:29
+msgid "Search Engine"
+msgstr "Suchmaschine"
+
+#: includes/views/analysis/website-referrers.php:365
+#: includes/views/tables/table-keywords.php:31
+msgid "Target"
+msgstr "Ziel"
+
+#: includes/views/analysis/website-referrers.php:366
+#: includes/views/analysis/website-visitors.php:342
+#: includes/views/export/table.php:87 includes/views/settings/logfile.php:50
+msgid "Date/Time"
+msgstr "Datum/Zeit"
+
+#: includes/views/analysis/website-referrers.php:367
+#: includes/views/analysis/website-visitors.php:341
+msgid "Last visit"
+msgstr "Letzter Besuch "
+
+#: includes/views/analysis/website-single-flow.php:19
+msgid "Flow of a Single Visitor"
+msgstr "Fluss eines einzelnen Besuchers"
+
+#: includes/views/analysis/website-single-flow.php:81
+#: includes/views/analysis/website-visitors.php:169
+#: includes/views/export/table.php:105
+msgid "encrypted"
+msgstr "verschlüsselt"
+
+#: includes/views/analysis/website-visitors.php:55
+msgid "Do you really want to delete this visit from database?"
+msgstr "Soll dieser Seitenbesuch wirklich aus der Datenbank entfernt werden?"
+
+#: includes/views/analysis/website-visitors.php:64
+msgid "Yes, delete it!"
+msgstr "Ja, löschen!"
+
+#: includes/views/analysis/website-visitors.php:67
+#: includes/views/settings/maintenance.php:32
+#: includes/views/settings/maintenance.php:79
+#: includes/views/settings/maintenance.php:171
+#: includes/views/settings/maintenance.php:197
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: includes/views/analysis/website-visitors.php:76
+#, php-format
+msgid "%s visit deleted."
+msgstr "%s Besucher entfernt."
+
+#: includes/views/analysis/website-visitors.php:79
+#, php-format
+msgid "%s page views deleted."
+msgstr "%s Seitenaufrufe entfernt."
+
+#: includes/views/analysis/website-visitors.php:165
+msgid "Delete"
+msgstr "Entfernen"
+
+#: includes/views/analysis/website-visitors.php:180
+msgid "User Agents and Operation Systems Used within the Selected Timeframe"
+msgstr "User-Agents und Betriebssysteme innerhalb des ausgewählten Zeitraums"
+
+#: includes/views/analysis/website-visitors.php:210
+msgid "Agent Engines"
+msgstr "Agent-Engines"
+
+#: includes/views/analysis/website-visitors.php:248
+msgid "Agents/Operation Systems"
+msgstr "Agents/Betriebssysteme"
+
+#: includes/views/analysis/website-visitors.php:294
+msgid "Visitors per day"
+msgstr "Besucher pro Tag"
+
+#: includes/views/analysis/website-visitors.php:301
+msgid "Development of Visitors within the Selected Timeframe"
+msgstr "Zeitliche Entwicklung der Besucher pro Tag  im ausgewählten Zeitraum"
+
+#: includes/views/analysis/website-visitors.php:319
+#, php-format
+msgid "Visitors since %s (since %s)"
+msgstr "Besucher seit dem %s (seit %s)"
+
+#: includes/views/analysis/website-visitors.php:333
+#: includes/views/export/table.php:88
+msgid "Agent"
+msgstr "User-Agent (Browser)"
+
+#: includes/views/analysis/website-visitors.php:334
+#: includes/views/export/table.php:89
+msgid "Agent Version"
+msgstr "User-Agent-Version"
+
+#: includes/views/analysis/website-visitors.php:335
+#: includes/views/export/table.php:90
+msgid "Agent Engine"
+msgstr "Agent-Engine"
+
+#: includes/views/analysis/website-visitors.php:336
+#: includes/views/export/table.php:91
+msgid "OS"
+msgstr "Betriebssystem"
+
+#: includes/views/analysis/website-visitors.php:337
+#: includes/views/export/table.php:92
+msgid "OS Version"
+msgstr "Betriebssystems-Version"
+
+#: includes/views/analysis/website-visitors.php:338
+#: includes/views/export/table.php:93
+msgid "OS Platform"
+msgstr "Betriebssystem-Platform"
+
+#: includes/views/analysis/website-visitors.php:339
+#: includes/views/export/table.php:94
+msgid "IP Address"
+msgstr "IP-Adresse"
+
+#: includes/views/analysis/website-visitors.php:340
+msgid "Count"
+msgstr "Anzahl"
+
+#: includes/views/analysis/website-visitors.php:343
+msgid "Action"
+msgstr "Aktion"
+
+#: includes/views/export/table.php:20 includes/views/export/table.php:27
+#: includes/views/export/table.php:34
+#, php-format
+msgid "Cannot create folder %s."
+msgstr "Kann Ordner %s nicht erstellen."
+
+#: includes/views/export/table.php:20 includes/views/export/table.php:27
+#: includes/views/export/table.php:34 includes/views/export/table.php:148
+msgid "Please check folder permissions."
+msgstr "Bitte Datei-Zugriffsrechte überprüfen,"
+
+#: includes/views/export/table.php:95
+msgid "Visit Step"
+msgstr "Besuchsschritt"
+
+#: includes/views/export/table.php:96
+msgid "Post/Page ID"
+msgstr "Beitrag/Seiten-ID"
+
+#: includes/views/export/table.php:97
+msgid "Post/Page Title"
+msgstr "Beitrag/Seiten-Titel"
+
+#: includes/views/export/table.php:148
+#, php-format
+msgid "Cannot write file %s."
+msgstr "Kann Datei %s nicht schreiben."
+
+#: includes/views/export/table.php:168
+msgid ""
+"Data export for the recorded page view statistics as a CSV raw data table."
+msgstr "Datenexport der gespeicherten Seitenaufrufe als CSV-Rohdaten-Datei."
+
+#: includes/views/export/table.php:170
+msgid "Select year and month for data export:"
+msgstr "Jahr und Monat für den Datenexport auswählen:"
+
+#: includes/views/export/table.php:173
+msgid "Create data table"
+msgstr "Daten-Tabelle generieren"
+
+#: includes/views/export/table.php:175
+msgid "Format \"YYYY-MM\" for older browsers"
+msgstr "Format \"YYYY-MM\", falls ein älterer Browser verwendet wird"
+
+#: includes/views/export/table.php:183
+msgid "Result"
+msgstr "Ergebnis"
+
+#: includes/views/export/table.php:184
+msgid "Download ZIP File"
+msgstr "Download als ZIP-Datei"
+
+#: includes/views/export/table.php:191
+msgid "Download CSV File"
+msgstr "Download als CSV-Datei"
+
+#: includes/views/settings/logfile.php:11
+msgid "Reset DB start date/time"
+msgstr "DB-Startzeitpunkt neu eingestellt"
+
+#: includes/views/settings/logfile.php:12
+msgid "DB clean-up"
+msgstr "DB aufräumen"
+
+#: includes/views/settings/logfile.php:13
+msgid "Data aggregation"
+msgstr "Datenaggregation"
+
+#: includes/views/settings/logfile.php:14
+msgid "Data table initialization"
+msgstr "Datentabelleninitialisierung"
+
+#: includes/views/settings/logfile.php:15
+msgid "Plugin update"
+msgstr "Plugin-Update"
+
+#: includes/views/settings/logfile.php:16
+msgid "Visit manually deleted"
+msgstr "Besuch manuell entfernt"
+
+#: includes/views/settings/logfile.php:52
+msgid "Event"
+msgstr "Ereignis"
+
+#: includes/views/settings/logfile.php:53
+msgid "Message"
+msgstr "Mitteilung"
+
+#: includes/views/settings/maintenance.php:23
+msgid "Do you really want to reset bots and exlusions counters?"
+msgstr ""
+"Sollen die Zähler für Bots und Ausnahmen wirklich zurückgesetzt werden?"
+
+#: includes/views/settings/maintenance.php:24
+#: includes/views/settings/maintenance.php:71
+#: includes/views/settings/maintenance.php:163
+#: includes/views/settings/maintenance.php:189
+msgid "ATTENTION: There will be no second question."
+msgstr "ACHTUNG: Es wird nicht noch einmal gefragt werden."
+
+#: includes/views/settings/maintenance.php:29
+#: includes/views/settings/maintenance.php:76
+#: includes/views/settings/maintenance.php:168
+#: includes/views/settings/maintenance.php:194
+msgid "Yes, do it!"
+msgstr "Ja, los!"
+
+#: includes/views/settings/maintenance.php:51
+#, php-format
+msgid "%s bot and exclusion counters reset to zero."
+msgstr "%s Bots- und Ausnahmen-Zähler wurden auf Null gesetzt."
+
+#: includes/views/settings/maintenance.php:65
+#, php-format
+msgid "Do you really want to delete all statistics data older than %s?"
+msgstr "Sollen wirklich alle Statistik-Daten älter als %s gelöscht werden?"
+
+#: includes/views/settings/maintenance.php:91
+#, php-format
+msgid "%s page views older than %s cleaned."
+msgstr "%s Seitenaufrufe älter als %s gelöscht."
+
+#: includes/views/settings/maintenance.php:138
+#, php-format
+msgid "%s aggregation entries older than %s cleaned."
+msgstr "%s aggregierte Daten älter als %s gelöscht."
+
+#: includes/views/settings/maintenance.php:161
+#, php-format
+msgid "Do you really want to delete all HTTP User-Agent strings older than %s?"
+msgstr ""
+"Möchten Sie wirklich alle HTTP-User-Agent-Strings älter als %s löschen?"
+
+#: includes/views/settings/maintenance.php:179
+#, php-format
+msgid "%s user-agent strings removed from database."
+msgstr "%s HTTP-User-Agent-Strings aus der Datenbank entfernt."
+
+#: includes/views/settings/maintenance.php:188
+msgid "Do you really want to restart the data aggregation process?"
+msgstr "Sollen die Datenaggregation wirklich neu gestartet werden?"
+
+#: includes/views/settings/maintenance.php:221
+#, php-format
+msgid "Data aggregration completed until %s."
+msgstr "Datenaggregation abeschlossen bis zum %s."
+
+#: includes/views/settings/maintenance.php:232
+msgid "Continue"
+msgstr "Weitermachen"
+
+#: includes/views/settings/maintenance.php:234
+msgid ""
+"Data aggretion takes some time. Please press \"continue\" button until taks "
+"is completed."
+msgstr ""
+"Die Datenaggregation benötigt einige Zeit. Bitte auf den \"Weiter\"-Button "
+"klicken für den nächsten Abschnitt."
+
+#: includes/views/settings/maintenance.php:241
+msgid "Restart of the data aggregation completed."
+msgstr "Der Neustart der Datenaggregation ist abgeschlossen."
+
+#: includes/views/settings/maintenance.php:267
+msgid "Clean-Up Database"
+msgstr "Datenbank aufräumen"
+
+#: includes/views/settings/maintenance.php:277
+#: includes/views/settings/maintenance.php:280
+msgid "Reset counters"
+msgstr "Zähler zurück setzen"
+
+#: includes/views/settings/maintenance.php:282
+msgid "Current counter values"
+msgstr "Aktuelle Zählerwerte"
+
+#: includes/views/settings/maintenance.php:284
+msgid "bots"
+msgstr "Bots"
+
+#: includes/views/settings/maintenance.php:284
+msgid "and"
+msgstr "und"
+
+#: includes/views/settings/maintenance.php:286
+msgid "exclusions"
+msgstr "Ausschlüsse"
+
+#: includes/views/settings/maintenance.php:308
+msgid "Clear all statistics data"
+msgstr "Alle Statistik-Daten löschen"
+
+#: includes/views/settings/maintenance.php:311
+#: includes/views/settings/maintenance.php:339
+msgid "older than"
+msgstr "älter als"
+
+#: includes/views/settings/maintenance.php:313
+msgid ""
+"Delete all entries in the WP VisitorFlow data base older than the selected "
+"date."
+msgstr ""
+"Lösche alle Einträge in der WP VisitorFlow Datenbank, die älter als das "
+"ausgewählte Datum sind."
+
+#: includes/views/settings/maintenance.php:314
+msgid "Clear Data"
+msgstr "Daten löschen"
+
+#: includes/views/settings/maintenance.php:336
+msgid "Clear HTTP user agents strings"
+msgstr "HTTP-User-Agent-Strings löschen"
+
+#: includes/views/settings/maintenance.php:341
+msgid "Clear HTTP UA Strings"
+msgstr "Lösche HTTP-UA-Strings"
+
+#: includes/views/settings/maintenance.php:343
+msgid "Delete all HTTP User-Agent strings stored before the selected date."
+msgstr ""
+"Alle HTTP-User-Agent-Strings löschen, die vor den ausgewählten Datum "
+"gespeichert wurden."
+
+#: includes/views/settings/maintenance.php:345
+#: includes/views/settings/maintenance.php:411
+#: includes/views/settings/privacy.php:192
+msgid "HTTP user-agent strings"
+msgstr "HTTP-User-Agent-Strings"
+
+#: includes/views/settings/maintenance.php:346
+msgid "currently stored."
+msgstr "aktuell gespeichert."
+
+#: includes/views/settings/maintenance.php:368
+#: includes/views/settings/maintenance.php:375
+msgid "Trigger Data Aggregation"
+msgstr "Datenaggregation anstoßen"
+
+#: includes/views/settings/maintenance.php:372
+msgid "Restart data aggregation."
+msgstr "Datenaggregation neu starten"
+
+#: includes/views/settings/maintenance.php:376
+msgid ""
+"Restart the data aggregation, e.g. in case of inconsistencies/missing data "
+"in the timelines."
+msgstr ""
+"Neustart der Datenaggregation, z.B. im Fall von Inkonsistenzen bzw. "
+"fehlender Datenpunkte in den Zeitreihen."
+
+#: includes/views/settings/maintenance.php:395
+msgid "Maintenance of WP VistorFlow data"
+msgstr "Wartung der WP-VisitorFlow-Datenbank"
+
+#: includes/views/settings/maintenance.php:397
+msgid "Counters"
+msgstr "Zähler"
+
+#: includes/views/settings/maintenance.php:398
+msgid ""
+"WP VisitorFlow counts visits by bots and crawlers and exclusions by several "
+"types of settings (see Settings/Storage)."
+msgstr ""
+"WP VisitorFlow zählt Besuche durch Bots und Crawlern sowie Ausschlüsse gemäß "
+"verschiedener Einstellungen (siehe Einstellungen/Erfassung)."
+
+#: includes/views/settings/maintenance.php:399
+msgid ""
+"A reset of these counters sets the counter values to zero. All previously "
+"counted events will be lost."
+msgstr ""
+"Ein Reset dieser Zähler setzt alle Zählstände auf Null. Alle zuvor gezählten "
+"Ereignisse gehen dabei verloren."
+
+#: includes/views/settings/maintenance.php:404
+msgid "Clear data"
+msgstr "Daten löschen"
+
+#: includes/views/settings/maintenance.php:405
+msgid ""
+"Flow data consists of visitor and page view information. These data are "
+"deleted automatically after a certain period of time (see Settings/Storage)."
+msgstr ""
+"Erfasste Daten bestehen aus Informationen zu Besuchern und Seitenaufrufen. "
+"Diese Daten werden automatisch gelöscht, sobald sie ein gewisses Alter "
+"erreichen (siehe Einstellungen/Erfassung)."
+
+#: includes/views/settings/maintenance.php:406
+msgid "You can also manually all data older than a selected date."
+msgstr "Diese Daten können hier auch manuell gelöscht werden."
+
+#: includes/views/settings/maintenance.php:412
+msgid ""
+"HTTP user-agent strings are no mandatory data. It is safe to clear these "
+"strings at any time."
+msgstr ""
+"Die HTTP-User-Agent-Strings sind nicht notwendig für die Statistiken. Sie "
+"können daher jederzeit ohne Einschränkungen gelöscht werden."
+
+#: includes/views/settings/privacy.php:31
+#: includes/views/settings/storage.php:105
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+#: includes/views/settings/privacy.php:52
+msgid "IP Addresses"
+msgstr "IP-Adressen"
+
+#: includes/views/settings/privacy.php:57
+msgid "Anonymize IP addresses"
+msgstr "IP-Adressen anonymisieren"
+
+#: includes/views/settings/privacy.php:61
+#: includes/views/settings/privacy.php:89
+#: includes/views/settings/storage.php:134
+#: includes/views/settings/storage.php:145
+#: includes/views/settings/storage.php:195
+#: includes/views/settings/storage.php:204
+#: includes/views/settings/storage.php:242
+#: includes/views/settings/storage.php:286
+#, php-format
+msgid "Active (default: %s)"
+msgstr "aktiv (voreingestellt: %s)"
+
+#: includes/views/settings/privacy.php:61
+#: includes/views/settings/privacy.php:89
+#: includes/views/settings/storage.php:134
+#: includes/views/settings/storage.php:145
+#: includes/views/settings/storage.php:195
+#: includes/views/settings/storage.php:204
+#: includes/views/settings/storage.php:242
+#: includes/views/settings/storage.php:286
+msgid "active"
+msgstr "aktiv"
+
+#: includes/views/settings/privacy.php:61
+#: includes/views/settings/privacy.php:89
+#: includes/views/settings/storage.php:134
+#: includes/views/settings/storage.php:145
+#: includes/views/settings/storage.php:195
+#: includes/views/settings/storage.php:204
+#: includes/views/settings/storage.php:242
+#: includes/views/settings/storage.php:286
+msgid "inactive"
+msgstr "inaktiv"
+
+#: includes/views/settings/privacy.php:63
+msgid "Anonymize IP addresses of remote clients by encryption."
+msgstr "Anonymisiere die IP-Adresse von Endgeräten durch Verschlüsselung."
+
+#: includes/views/settings/privacy.php:64
+msgid ""
+"This option is recommended to fulfill data privacy rules in several "
+"countries."
+msgstr ""
+"Diese Einstellung ist empfehlenswert, um die Datenschutbestimmungen "
+"verschiedener Länder inkl. Deutschlands zu erfüllen."
+
+#: includes/views/settings/privacy.php:81
+msgid "HTTP User agent String"
+msgstr "HTTP-User-Agent-String"
+
+#: includes/views/settings/privacy.php:85
+msgid "Store user-agent string"
+msgstr "HTTP-User-Agent-Strings speichern"
+
+#: includes/views/settings/privacy.php:91
+msgid "Store the full HTTP user-agent string submitted by remote clients."
+msgstr "Speichere die vollen HTTP-User-Agent-Strings der Endgeräte."
+
+#: includes/views/settings/privacy.php:132
+#: includes/views/settings/privacy.php:200
+msgid "Access to WP VisitorFlow"
+msgstr "Zugriff auf WP VisitorFlow"
+
+#: includes/views/settings/privacy.php:136
+msgid "Access to data and visualizations"
+msgstr "Zugriff auf Daten und Auswertungen"
+
+#: includes/views/settings/privacy.php:139
+#: includes/views/settings/privacy.php:158
+msgid "Default:"
+msgstr "Voreingestellt:"
+
+#: includes/views/settings/privacy.php:155
+msgid "Access to plugins's settings"
+msgstr "Zugriff auf die Plugin-Einstellungen"
+
+#: includes/views/settings/privacy.php:161
+#, php-format
+msgid "See %s for details on capability levels."
+msgstr ""
+"Mehr Informationen zu Rollen und Zugangsrechten sind auf der Seite %s zu "
+"finden."
+
+#: includes/views/settings/privacy.php:161
+msgid "WordPress Roles and Capabilities"
+msgstr "WordPress Roles and Capabilities"
+
+#: includes/views/settings/privacy.php:162
+msgid ""
+"Hint: manage_network = Super Admin Network, manage_options = Administrator, "
+"edit_others_posts = Editor, publish_posts = Author, edit_posts = "
+"Contributor, read = Everyone."
+msgstr ""
+"Hinweis: manage_network = Super Admin Network, manage_options = "
+"Administrator, edit_others_posts = Redakteure, publish_posts = Autoren, "
+"edit_posts = Mitwirkende, read = Jede/Jeder."
+
+#: includes/views/settings/privacy.php:184
+msgid "Data Privacy Settings"
+msgstr "Einstellungen zum Datenschutz"
+
+#: includes/views/settings/privacy.php:186
+msgid "IP address"
+msgstr "IP-Adresse"
+
+#: includes/views/settings/privacy.php:187
+msgid ""
+"By default, IP addresses of the visitors are only stored in encrypted form. "
+"If you need the IP addresses - in agreement with your private data policy - "
+"you can de-activate this encryption."
+msgstr ""
+"Standardmäßig werden die IP-Adressen der Besucher nur in verschlüsselter "
+"Form gespeichert. Wenn Sie die unverschlüsselten IP-Adressen benötigen, "
+"können Sie diese Verschlüsselung hier deaktivieren - gemäß Ihrer "
+"Datenschutzerklärung."
+
+#: includes/views/settings/privacy.php:193
+msgid ""
+"By default, the full HTTP user-agent strings submitted by the clients are "
+"not stored."
+msgstr ""
+"Standardmäßig werden die vollen HTTP-User-Agent-Strings der Besucher nicht "
+"gespeichert."
+
+#: includes/views/settings/privacy.php:194
+msgid ""
+"Sometimes, you want to see the full strings, because they can be helpful in "
+"the identification of unknown crawlers and search engines."
+msgstr ""
+"Manchmal ist es aber sinnvoll, diese Strings zu erfassen, zum Beispiel um "
+"unbekannte Bots und Suchmaschinen zu identifizieren."
+
+#: includes/views/settings/privacy.php:195
+msgid ""
+"All stored full HTTP user-agent strings can easily be deleted (see Settings/"
+"Maintenance)."
+msgstr ""
+"Alle gespeicherten HTTP-User-Agent-Strings können einfach wieder gelöscht "
+"werden (siehe Einstellungen/Wartung)."
+
+#: includes/views/settings/privacy.php:201
+msgid "You can restrict the access to WP VisitorFlow data and settings."
+msgstr ""
+"Sie können den Zugriff auf die Daten und die Einstellungen in WP VisitorFlow "
+"einschränken."
+
+#: includes/views/settings/storage.php:126
+msgid "General Storage Settings"
+msgstr "Einstellungen zur Erfassung der Daten"
+
+#: includes/views/settings/storage.php:131
+msgid "Record visitor flow"
+msgstr "Besucherfluss erfassen"
+
+#: includes/views/settings/storage.php:136
+msgid ""
+"If active, the visitor flow will be recorded. If inactive, no data will be "
+"stored."
+msgstr ""
+"Falls aktiv, wird der Besucherfluss erfasst und gespeichert. Ansonsten "
+"werden keine Daten gespeichert."
+
+#: includes/views/settings/storage.php:142
+msgid "Enable client JS requests"
+msgstr "JS-Zugriff auf Clientseite aktivieren"
+
+#: includes/views/settings/storage.php:147
+msgid ""
+"Enables tracking via an additional JavaScript function on client site. "
+"Recommended if caching plugins are active."
+msgstr ""
+"Ermöglicht die Erfassung des Besucherflusses mit Hilfe einer kleinen "
+"JavaScript-Funktion auf der Clientseite. Bei Verwendung von Caching-Plugins "
+"wird diese Einstellung empfohlen."
+
+#: includes/views/settings/storage.php:154
+msgid "Minimum time between visits"
+msgstr "Minimale Zeit zwischen Besuchen"
+
+#: includes/views/settings/storage.php:158
+#, php-format
+msgid "minutes (default: %s minutes)"
+msgstr "Minuten  (voreingestellt: %s Minuten)"
+
+#: includes/views/settings/storage.php:160
+msgid ""
+"Is the time between two visits by a single client shorter than this period, "
+"the client will be counted as the same visitor. Otherwise, the client will "
+"be counted as a new visitor."
+msgstr ""
+"Die Zeit, die zwischen zwei Besuchen vergangen sein muss, um einen Besucher "
+"als einen neuen Besucher zu identifizieren. Ist die Zeit zwischen den "
+"Besucher kürzer, wird der gleiche Besucher angenommen."
+
+#: includes/views/settings/storage.php:167
+msgid "Flow data storage time"
+msgstr "Besucherfluss-Speicherzeit"
+
+#: includes/views/settings/storage.php:171
+#, php-format
+msgid "days (default: %s days)"
+msgstr "Tage (voreingestellt: %s Tage)"
+
+#: includes/views/settings/storage.php:173
+msgid ""
+"Detailed flow data is stored only for this amount of days. Older data will "
+"be automatically deleted to keep the database lean and the webpage "
+"performance high."
+msgstr ""
+"Die detaillierten Besucherfluss-Daten werden nur innerhalb dieser Zeitspanne "
+"gespeichert. Ältere Daten werden automatisch gelöscht, um die Datenbank "
+"klein zu halten."
+
+#: includes/views/settings/storage.php:174
+msgid "Aggregated data such as daily page hit counts will not be affected."
+msgstr ""
+"Aggregierte Daten wie die Zähler der Seitenzugriffe sind davon nicht "
+"betroffen."
+
+#: includes/views/settings/storage.php:189
+msgid "Exclude Remote Clients"
+msgstr "Ausschluss bestimmter Besucher"
+
+#: includes/views/settings/storage.php:192
+msgid "Exclude detected bots"
+msgstr "Bots ausschließen"
+
+#: includes/views/settings/storage.php:196
+msgid ""
+"Exclude bots, crawlers, web spiders etc. from the flow statistics. Bot "
+"visits will be counted, but not tacked."
+msgstr ""
+"Besuche von Bots, Crawlern, Web Spidern etc. werden von der Statistik "
+"ausgeschlossen. Ihre Besuche werden gezählt, aber nicht deren Besuchsverlauf "
+"erfasst."
+
+#: includes/views/settings/storage.php:201
+msgid "Exclude unknown UA strings"
+msgstr "Unbekannte UA-Strings ausschließen"
+
+#: includes/views/settings/storage.php:205
+msgid "Exclude unknown remote clients from the statistics."
+msgstr "Nicht identifizierbare Endgeräte von der Statistik ausschließen."
+
+#: includes/views/settings/storage.php:211
+msgid "UA string exclusion list"
+msgstr "UA-String-Ausschlussliste"
+
+#: includes/views/settings/storage.php:219
+msgid ""
+"Any remote client with a HTTP User Agent that includes one of the text "
+"strings in this list will be excluded from the statistics."
+msgstr ""
+"Alle Remote-Clients mit HTTP-User-Agent-Strings, die einen der Textbausteine "
+"aus der Liste enthalten, werden von der Statistik ausgeschlossen."
+
+#: includes/views/settings/storage.php:220
+#: includes/views/settings/storage.php:257
+msgid ""
+"You can edit the list and/or include new text strings at the end of the "
+"list. One string per line."
+msgstr ""
+"Die Liste kann bearbeitet werden und neue Textbausteine angefügt werden. Ein "
+"Textbaustein pro Zeile."
+
+#: includes/views/settings/storage.php:236
+msgid "Exclude WordPress Pages"
+msgstr "WordPress-Seiten ausschließen"
+
+#: includes/views/settings/storage.php:239
+msgid "Exclude 404 error pages"
+msgstr "404-Fehlerseiten ausschließen"
+
+#: includes/views/settings/storage.php:243
+msgid "Exclude non-existent pages/files, which lead to a 404 error page."
+msgstr ""
+"Schließe nicht-existierende Seiten/Dateien aus, die zu einer 404-Fehlerseite "
+"führen."
+
+#: includes/views/settings/storage.php:248
+msgid "Pages URL exclusion list"
+msgstr "Seiten-URL-Auschlussliste"
+
+#: includes/views/settings/storage.php:256
+msgid ""
+"Any page URL that includes one of the text strings in this list will be "
+"excluded from the statistics."
+msgstr ""
+"Alle Seiten mit einer URL, die einen der Textbausteine in der Liste "
+"enthalten, werden von der Statistik ausgeschlossen."
+
+#: includes/views/settings/storage.php:273
+#: includes/views/settings/storage.php:376
+msgid "Exclude WordPress Users"
+msgstr "WordPress-User ausschließen"
+
+#: includes/views/settings/storage.php:287
+#, php-format
+msgid "Exclude role \"%s\" in the statistics."
+msgstr "Die Rolle \"%s\" von der Erfassung ausschließen."
+
+#: includes/views/settings/storage.php:312
+msgid "What data is recorded?"
+msgstr "Welche für Daten werden gespeichert?"
+
+#: includes/views/settings/storage.php:315
+msgid ""
+"Information about the Visitor's client is obtained by analysis of the <a "
+"class=\"wpvf wpvfextern\" href=\"https://en.wikipedia.org/wiki/User_agent\"> "
+"User-Agent string</a>. The following data is recorded about any visitor:"
+msgstr ""
+"Informationen über die Besucher werden durch Analyse der übermittelten <a "
+"class=\"wpvf wpvfextern\" href=\"https://de.wikipedia.org/wiki/User_Agent\"> "
+"User-Agent-Strings</a> gesammelt. Folgende Daten der Besucher werden dabei "
+"erfasst:"
+
+#: includes/views/settings/storage.php:318
+msgid "Agent name, engine and version (e.g. Firefox/Gecko/v62.0)"
+msgstr "Browsername, Browserengine und -version (z.B. Firefox/Gecko/v62.0)"
+
+#: includes/views/settings/storage.php:319
+msgid "Operation system and version (e.g. Windows, iOS or Android)"
+msgstr "Betriebssystem und -version (z.B. Windows, iOS oder Android)"
+
+#: includes/views/settings/storage.php:320
+msgid "IP address (by default in encrypted form, see Settings/Privacy)"
+msgstr ""
+"IP-Adresse (standardmäßig in verschlüsselter Form, siehe Einstellungen/"
+"Datenschutz)"
+
+#: includes/views/settings/storage.php:323
+msgid ""
+"A visitor is detected as a new visitor if it is the first visit or if the "
+"last visit has been longer ago than 60 minutes (can be changed in Settings/"
+"Storage)."
+msgstr ""
+"Ein Besucher wird als neuer Besucher identifiziert, wenn der letzte Besuch "
+"länger als 60 Minuten her ist (Der Wert kann in Einstellungen/Erfassung "
+"verändert werden)."
+
+#: includes/views/settings/storage.php:324
+msgid ""
+"Bots, spiders and web crawlers are detected by the HTTP user-agent string, "
+"too. The analysis of the user-agent string is performed by using the <a "
+"class=\"wpvf wpvfextern\" href=\"https://github.com/matomo-org/device-"
+"detector\">Device Detector</a> library.</a> "
+msgstr ""
+"Bots, Spider und Web-Crawler werden ebenfalls durch ihren HTTP-User-Agent-"
+"String erkannt. Die Analyse dieser Strings wird mittels einer lokalen "
+"Version der <a class=\"wpvf wpvfextern\" href=\"https://github.com/matomo-"
+"org/device-detector\">Device Detector-Bibliothek</a> durchgeführt.</a>"
+
+#: includes/views/settings/storage.php:328
+msgid ""
+"For any visitor, the visited page and the date and time is recorded. "
+"Thereby, the click flow through you website can be tracked for any visitor "
+"and the total <strong>flow data</strong> of all visitors can be analysed."
+msgstr ""
+"Für jeden Besucher werden die besuchte Seiten samt einem Zeitstempel "
+"gespeichert. Auf diese Weise wird der <strong>Besucherfluss</strong>  auf "
+"der Webseite ermitteln."
+
+#: includes/views/settings/storage.php:332
+msgid "How long is the data recorded?"
+msgstr "Wie lange werden die Daten gespeichert?"
+
+#: includes/views/settings/storage.php:336
+#, php-format
+msgid ""
+"The detailed visitor and flow data is stored for %d days by default (can be "
+"changed in Settings/Storage)."
+msgstr ""
+"Detaillierte Besucherflussdaten werden für %d Tage gespeichert (einstellbar "
+"in Einstellungen/Erfassung)."
+
+#: includes/views/settings/storage.php:340
+msgid ""
+"Older data is automatically deleted and only information about total visits "
+"per page and day is kept in the database for an infinite amount of time."
+msgstr ""
+"Ältere Daten werden automatisch gelöscht, wobei vorher die Zahl der gesamten "
+"Aufrufe aller Seiten pro Tag ermittelt werden. Diese aggregierten Daten "
+"bleiben unbeschränkt gespeichert."
+
+#: includes/views/settings/storage.php:344
+msgid "Trouble with caching plugins?"
+msgstr "Probleme mit Caching-Plugins?"
+
+#: includes/views/settings/storage.php:346
+msgid ""
+"Visitors and page views are automatically recorded in the WordPress backend "
+"(by default)."
+msgstr ""
+"Besucher und Seitenaufrufe werden standardmäßig im WordPress-Backend erfasst."
+
+#: includes/views/settings/storage.php:347
+msgid "However, we found that some caching plugins circumvent this recording."
+msgstr ""
+"Allerdings haben wir feststellen müssen, dass bestimmte Caching-Plugins "
+"diesen Mechanismus umgehen."
+
+#: includes/views/settings/storage.php:348
+msgid ""
+"If you use such a cache, you should enable \"Enable client JS requests\" in "
+"Settings/Storage."
+msgstr ""
+"Wenn Sie ein solches Caching-Plugin einsetzen, aktivieren Sie bitte die "
+"Einstellung \"JS-Zugriff auf Clientseite aktivieren\" in Einstellungen/"
+"Erfassung."
+
+#: includes/views/settings/storage.php:349
+msgid ""
+"Thereby, a small JavaScript function is added to your website, which "
+"triggers the data recording by WP VisitorFlow."
+msgstr ""
+"Dadurch wird eine kleine JavaScript-Funktion in jede Webseite eingebaut, die "
+"die Erfassung des Seitenbesuchs durch WP VisitorFlow auch bei Einsatz von "
+"Caching-Plugins ermöglicht."
+
+#: includes/views/settings/storage.php:353
+msgid "Exclude visitors and page views"
+msgstr "Besucher und Seitenaufrufe ausschließen"
+
+#: includes/views/settings/storage.php:355
+msgid "Detected bots"
+msgstr "Erkannte Bots"
+
+#: includes/views/settings/storage.php:356
+msgid "Many page views originate from automated bots and crawlers."
+msgstr ""
+"Viele Seitenaufrufe werden durch automatische Bots und Crawlern, zum "
+"Beispiel von Suchmaschinen, durchgeführt."
+
+#: includes/views/settings/storage.php:357
+msgid "By default, these bots are excluded from the flow data statistics."
+msgstr ""
+"Standardmäßig werden diese Besuche von der Besucherfluss-Statistik "
+"ausgeschlossen."
+
+#: includes/views/settings/storage.php:358
+msgid ""
+"They are detected by their submitted HTTP user agent-strings and only the "
+"total number of page views are counted."
+msgstr ""
+"Sie werden durch ihre übermittelten HTTP-User-Agent-Strings erkannt und nur "
+"die Gesamtzahl ihrer Seitenaufrufe gezählt."
+
+#: includes/views/settings/storage.php:361
+msgid "Unknown UA strings"
+msgstr "Unbekannte UA-Strings"
+
+#: includes/views/settings/storage.php:362
+msgid ""
+"If the submitted user-agent string is unknown, the visits are counted but "
+"excluded from the flow data statistics (by default)."
+msgstr ""
+"Wenn ein übermittelter User-Agent-String unbekannt ist, wird der Besuch "
+"gezählt, aber standardmäßig nicht der Besucherfluss erfasst."
+
+#: includes/views/settings/storage.php:363
+msgid ""
+"Moreover, certain UA strings can be detected by means of a white-list and "
+"excluded from the flow data statistics, too"
+msgstr ""
+"Desweiteren können bestimmte UA-Strings mit Hilfe einer selbst definierten "
+"Liste ausgeschlossen werden."
+
+#: includes/views/settings/storage.php:366
+msgid "404 error pages"
+msgstr "404-Fehlerseiten"
+
+#: includes/views/settings/storage.php:367
+msgid "If a requested page is not available, WordPress delivers a 404 error. "
+msgstr ""
+"Wenn eine aufgerufene Webseite nicht vorhanden ist, liefert WordPress eine "
+"404-Fehlerseite aus."
+
+#: includes/views/settings/storage.php:368
+msgid ""
+"By default, these not existing pages are included in the flow statistics, "
+"because often you want to see these errors."
+msgstr ""
+"Standardmäßig werden nicht-existierende Webseiten im Besucherfluss erfasst, "
+"da diese Informationen für die meisten Seitenbetreiber interessant sind."
+
+#: includes/views/settings/storage.php:369
+msgid "However, you can deactivate the recording of 404 pages."
+msgstr ""
+"Natürlich kann diese Erfassung von 404-Fehlerseiten auch deaktiviert werden."
+
+#: includes/views/settings/storage.php:372
+msgid "URL exclusion list"
+msgstr "URL-Ausschluss-Liste"
+
+#: includes/views/settings/storage.php:373
+msgid ""
+"If you want to exclude certain pages from the statistics, you can use a "
+"white-list."
+msgstr ""
+"Falls Sie bestimme Seiten von der Besucherfluss-Statistik ausschließen "
+"wollen, können Sie diese in eine Liste eintragen."
+
+#: includes/views/settings/storage.php:377
+msgid ""
+"By default, any page view of logged-in WordPress user is not recorded. You "
+"can set the recording of any logged-in WordPress user per role."
+msgstr ""
+"Standardmäßig wird jeder Seitenaufruf durch angemeldete WordPress-User nicht "
+"erfasst. In den Einstellungen kann die Erfassung von Seitenaufrufen von "
+"angemeldeten Users je nach Rolle aktiviert werden."
+
+#: includes/views/tables/table-bots.php:48
+msgid "Bot/Crawler Name"
+msgstr "Bot-/Crawler-Name"
+
+#: includes/views/tables/table-bots.php:49
+msgid "Hits"
+msgstr "Aufrufe"
+
+#: includes/views/tables/table-bots.php:50
+msgid "Hits per Day"
+msgstr "Aufrufe pro Tag"
+
+#: includes/views/tables/table-bots.php:51
+msgid "Last Hit"
+msgstr "Letzter Aufruf"
+
+#: includes/views/tables/table-bots.php:55
+#: includes/views/tables/table-exclusions.php:161
+#: includes/views/tables/table-keywords.php:78
+#: includes/views/tables/table-uastrings.php:68
+msgid "Table still empty."
+msgstr "Tabelle noch leer."
+
+#: includes/views/tables/table-bots.php:89
+#: includes/views/tables/table-exclusions.php:168
+msgid "Show all"
+msgstr "Zeige alles"
+
+#: includes/views/tables/table-dbinfo.php:11
+msgid "Property"
+msgstr "Eigenschaft"
+
+#: includes/views/tables/table-dbinfo.php:12
+msgid "Value"
+msgstr "Wert"
+
+#: includes/views/tables/table-dbinfo.php:15
+#, fuzzy
+#| msgid "since the first record on"
+msgid "Date of first record"
+msgstr "seit der ersten Aufzeichnung am"
+
+#: includes/views/tables/table-dbinfo.php:33
+#, fuzzy
+#| msgid "First flow data date"
+msgid "Date pf first flow data"
+msgstr "Start der Besucherflussdaten"
+
+#: includes/views/tables/table-dbinfo.php:50
+msgid "Number of visits"
+msgstr "Anzahl der Besucher"
+
+#: includes/views/tables/table-dbinfo.php:54
+#: includes/views/tables/table-dbinfo.php:63
+#: includes/views/tables/table-dbinfo.php:72
+#: includes/views/tables/table-dbinfo.php:81
+msgid "per day"
+msgstr "pro Tag"
+
+#: includes/views/tables/table-dbinfo.php:59
+msgid "Number of page views"
+msgstr "Anzahl der Seitenaufrufe"
+
+#: includes/views/tables/table-dbinfo.php:68
+#, fuzzy
+#| msgid "Recorded bots visits"
+msgid "Recorded bot visits"
+msgstr "Aufgezeichnete Bot-Besuche"
+
+#: includes/views/tables/table-dbinfo.php:77
+msgid "Excluded page views"
+msgstr "Ausgeschlossene Seitenaufrufe"
+
+#: includes/views/tables/table-dbinfo.php:85
+msgid "Number of internal pages"
+msgstr "Anzahl interner Seiten"
+
+#: includes/views/tables/table-dbinfo.php:89
+msgid "Number of external pages (referrers)"
+msgstr "Anzahl externer/verweisender Seiten"
+
+#: includes/views/tables/table-dbinfo.php:93
+msgid "Recorded HTTP User-Agent strings"
+msgstr "Aufgezeichnete HTTP-User-Agent-Strings"
+
+#: includes/views/tables/table-exclusions.php:14
+msgid "Reason for Exclusion"
+msgstr "Grund des Ausschlusses"
+
+#: includes/views/tables/table-exclusions.php:16
+msgid "Page Views per Day"
+msgstr "Seitenaufrufe pro Tag"
+
+#: includes/views/tables/table-exclusions.php:17
+msgid "Last View"
+msgstr "Letzter Aufruf"
+
+#: includes/views/tables/table-exclusions.php:131
+msgid "404 errors"
+msgstr "404-Fehlerseiten"
+
+#: includes/views/tables/table-exclusions.php:151
+msgid "Self-referrers"
+msgstr "Eigenaufruf"
+
+#: includes/views/tables/table-keywords.php:28
+msgid "Time"
+msgstr "Zeit"
+
+#: includes/views/tables/table-summary.php:19
+#: includes/views/tables/table-summary.php:37
+msgid "last 24h"
+msgstr "letzte 24h"
+
+#: includes/views/tables/table-summary.php:28
+#: includes/views/tables/table-summary.php:46
+msgid "last 7 days"
+msgstr "letzte 7 Tage"
+
+#: includes/views/tables/table-summary.php:105
+msgid "since the first record on"
+msgstr "seit der ersten Aufzeichnung am"
+
+#: includes/views/tables/table-summary.php:112
+msgid "Recorded bots visits"
+msgstr "Aufgezeichnete Bot-Besuche"
+
+#: includes/views/tables/table-summary.php:113
+#, php-format
+msgid "%s per day"
+msgstr "%s pro Tag"
+
+#: includes/views/tables/table-uastrings.php:27
+msgid "Storage of User-Agent Strings has been disabled in settings."
+msgstr ""
+"Die Speicherung von HTTP-User-Agent-Strings wurde in den Einstellungen "
+"deaktiviert."
+
+#: includes/views/tables/table-uastrings.php:35
+msgid "HTTP User-Agent String"
+msgstr "HTTP-User-Agent-String"
+
+#: wp-visitorflow.php:136
+msgid ""
+"An error occurred during installation/update of the WP VisitorFlow plugin."
+msgstr ""
+"Während der Installation bzw. des Updates von WP VisitorFlow ist ein Fehler "
+"aufgetreten."
+
+#~ msgid "Export recorded data to csv tables or to the WP VisitorFlow app."
+#~ msgstr ""
+#~ "Aufgezeichnete Daten als CSV-Datei oder zur WP VisitorFlow-App exportieren"
+
+#~ msgid "Not available."
+#~ msgstr "Nicht verfügbar."
+
+#~ msgid "WordPress version 4.7 or higher required to use this functionality."
+#~ msgstr ""
+#~ "Um diese Funktion nutzen zu können, ist WordPress in einer Version ab 4.7 "
+#~ "notwendig,"
+
+#~ msgid "Do you really want to remove the access from this device?"
+#~ msgstr "Soll diesem Gerät wirklich der Zugang gesperrt werden?"
+
+#~ msgid "Yes, remove it!"
+#~ msgstr "Ja, los!"
+
+#~ msgid "Device access removed."
+#~ msgstr "Geräte-Zugang entfernt."
+
+#~ msgid "Access from Mobile App"
+#~ msgstr "Zugang durch die mobile App"
+
+#~ msgid "Enable App Access"
+#~ msgstr "App-Zugang freigeben"
+
+#~ msgid ""
+#~ "Enabling access to WP VisitorFlow data from the mobile WordPress "
+#~ "VisitorFlow app (Android only)."
+#~ msgstr ""
+#~ "Zugang zu den WP-VisitorFlow-Daten durch die mobile App \"WordPress "
+#~ "VisitorFlow\" freigeben (nur für Android verfügbar)."
+
+#~ msgid "Hint"
+#~ msgstr "Hinweis"
+
+#~ msgid ""
+#~ "Access from the mobile app to this website will be included into the "
+#~ "recorded statistics."
+#~ msgstr ""
+#~ "Anfragen durch die mobile App können auch in die Webseiten-Statistiken "
+#~ "eingehen."
+
+#~ msgid ""
+#~ "To prevent this, just include the string \"/index.php/wp-json/wp-"
+#~ "visitorflow\" to the <a class=\"wpvf\" href=\"?"
+#~ "page=wpvf_admin_settings&tab=storing\">pages URL exclusion list</a>."
+#~ msgstr ""
+#~ "Um dies zu verhindern, einfach die Zeichenkette  \"/index.php/wp-json/wp-"
+#~ "visitorflow\" zur  <a class=\"wpvf\" href=\"?"
+#~ "page=wpvf_admin_settings&tab=storing\">Seiten-URL-Auschlussliste</a> "
+#~ "hinzufügen."
+
+#~ msgid "Remote Clients"
+#~ msgstr "Mobile Geräte"
+
+#~ msgid ""
+#~ "Remote client(s) with access to WP VisitorFlow statistics on this website:"
+#~ msgstr ""
+#~ "Alle mobilen Geräte mit Zugang zu den WP VisitorFlow-Statistiken auf "
+#~ "dieser Webseite:"
+
+#~ msgid "No."
+#~ msgstr "Nr."
+
+#~ msgid "Registered since"
+#~ msgstr "Registriert am"
+
+#~ msgid "Manufacturer"
+#~ msgstr "Hersteller"
+
+#~ msgid "Model"
+#~ msgstr "Modell"
+
+#~ msgid "Platform"
+#~ msgstr "Betriebssystem-Platform"
+
+#~ msgid "Version"
+#~ msgstr "Betriebssystems-Version"
+
+#~ msgid "Device UUID"
+#~ msgstr "Geräte-UUID"
+
+#~ msgid "Remove access"
+#~ msgstr "Zugang entfernen"
+
+#~ msgid "No remote client with access yet."
+#~ msgstr "Bisher hat kein Gerät Zugang."
+
+#~ msgid "Scan this code"
+#~ msgstr "Diesen Code scannen"
+
+#~ msgid "How to:"
+#~ msgstr "Wie funktioniert das?"
+
+#~ msgid "How to receive this website's statistics on your mobile device:"
+#~ msgstr ""
+#~ "So können die WP VisitorFlow-Daten auf einem mobilen Gerät betrachtet "
+#~ "werden:"
+
+#~ msgid ""
+#~ "Download and install the Android app \"WP VisitorFlow\" on your mobile "
+#~ "device."
+#~ msgstr ""
+#~ "Die Android-App \"WP VisitorFlow\" herunterladen und auf dem mobilen "
+#~ "Gerät installieren."
+
+#~ msgid ""
+#~ "Generate a code containing this website's URL and an access token for the "
+#~ "mobile app:"
+#~ msgstr ""
+#~ "Einen Code generieren, der die URL dieser Webseite sowie einen "
+#~ "Zugangscode für die App enthält:"
+
+#~ msgid "Generate Code"
+#~ msgstr "Code generieren"
+
+#~ msgid "You can also enter this code manually:"
+#~ msgstr "Dieser Code kann alternativ auch per Hand eingegeben werden:"
+
+#~ msgid "Website's URL"
+#~ msgstr "Webseiten-URL"
+
+#~ msgid "Token"
+#~ msgstr "Zugangscode"
+
+#~ msgid "In app: Add access to this website by scanning the generated code."
+#~ msgstr ""
+#~ "In der App: Durch das Einscannen dieses Codes den Zugang zu dieser "
+#~ "Webseite freigeben."
+
+#~ msgid "This code is valid for "
+#~ msgstr "Dieser Code ist noch gültig für "
+
+#~ msgid "Rate us"
+#~ msgstr "Bewerten mit"
+
+#~ msgid "First record date"
+#~ msgstr "Erste Aufzeichnung am"
+
+#~ msgid "Flow data start date"
+#~ msgstr "Start der Besucherfluss-Daten"
+
+#~ msgid "Database start date"
+#~ msgstr "Start der Datenbank"
+
+#~ msgid "Page View Duration"
+#~ msgstr "Dauer des Seitenaufrufs"
+
+#~ msgid "Latest HTTP User Agent Strings"
+#~ msgstr "Letzte HTTP User-Agent-Strings"
+
+#~ msgid "General"
+#~ msgstr "Allgemein"
+
+#~ msgid "Recording Settings"
+#~ msgstr "Speicherung"
+
+#~ msgid "Visitor Flow Recording"
+#~ msgstr "Aufzeichnung des Besucherflusses"
+
+#~ msgid "Record Visitor Flow"
+#~ msgstr "Besucherfluss aufzeichnen"
+
+#~ msgid "This is the <em>main swith</em> :-) "
+#~ msgstr "Dies ist der <em>Hautpschalter</em> :-) "
+
+#~ msgid ""
+#~ "If active, the visitor flow will be recorded. If inactive, no data will "
+#~ "be collected."
+#~ msgstr ""
+#~ "Nur wenn diese Einstellung aktiv ist, wird der Besucherfluss "
+#~ "aufgezeichnet. Ansonsten werden keinerlei Daten gespeichert."
+
+#~ msgid ""
+#~ "The minimum time period between two visits by a remote client that "
+#~ "defines a new visitor. "
+#~ msgstr ""
+#~ "Die minimale Zeitspanne, die zwischen zwei Besuchen liegen muss, um den "
+#~ "gleichen Besucher als neuen Besucher zu identifizieren."
+
+#~ msgid ""
+#~ "Is the time between two visits by a remote client shorter than this "
+#~ "period, the client will be counted as the same visitor. Is it longer, he "
+#~ "or she will be counted as a new visitor."
+#~ msgstr ""
+#~ "Ist die Zeit zwischen zwei Besuchen vom gleichen Besucher kleiner als "
+#~ "diese Zeitspanne, wird es als derselbe Besuch gezählt. Ist die Zeit "
+#~ "länger, wird der Besuch als von einem neuen Besucher stammend gezählt."
+
+#~ msgid "Flow Data Storage Time"
+#~ msgstr "Aufbewahrungsdauer für Besucherflussdaten"
+
+#~ msgid ""
+#~ "This affects only the detailed flow data such as information about the "
+#~ "user agents, operation systems and click-paths. Aggregated data such as "
+#~ "daily page hit counts will not be affected."
+#~ msgstr ""
+#~ "Dies betrifft nur die detailierten Besucherflussdaten wie die "
+#~ "Informationen über die verwendeten Browser, Betriebssysteme und die "
+#~ "Besucherpfade. Aggregierte Daten wie die Seitenaufrufe pro Tag sind davon "
+#~ "nicht betroffen."
+
+#~ msgid "Minimum User Access Levels"
+#~ msgstr "Minimaler Benutzerzugang"
+
+#~ msgid "Access to WP VisitorFlow data and visualization"
+#~ msgstr "Zugang zu WP VisitorFlow-Daten und -Visualisierungen"
+
+#~ msgid "Access to WP VisitorFlow settings section"
+#~ msgstr "Zugang zu den  WP VisitorFlow-Einstellungen"
+
+#~ msgid ""
+#~ "Do you really want to delete all HTTP User Agent strings older than %s?"
+#~ msgstr ""
+#~ "Sollen wirklich alle HTTP User-Agent-Strings älter als %s gelöscht werden?"
+
+#~ msgid "%s user agent strings removed from database."
+#~ msgstr "%s User-Agent-Strings aus der Datenbank entfernt."
+
+#~ msgid "Resets the counters for bot visits and page view exclusions."
+#~ msgstr "Zähler für Bots und Ausnahmen bei den Seitenaufrufen zurück setzen."
+
+#~ msgid "Clear HTTP User Agents strings"
+#~ msgstr "Lösche HTTP-User-Agent-Strings"
+
+#~ msgid "Delete all HTTP User Agent strings stored before the selected date."
+#~ msgstr ""
+#~ "Lösche alle HTTP-User-Agent-Strings, die vor dem ausgewählten Datum "
+#~ "gespeichert wurden."
+
+#~ msgid ""
+#~ "The user agent strings are no mandatory data. So if you do not need them "
+#~ "anymore (e.g. to identify crawlers and search engines), it is safe to "
+#~ "clear these strings."
+#~ msgstr ""
+#~ "Die User-Agent-Strings sind keine notwendigen Daten. Wenn sie nicht mehr "
+#~ "gebraucht werden (z.B. um neue Crawler oder Suchmaschinen zu "
+#~ "identifizieren), können diese Daten problemlos gelöscht werden."
+
+#~ msgid ""
+#~ "Be aware: Once encrypted, the stored IP addresses cannot be restored."
+#~ msgstr ""
+#~ "Aber Achtung: Einmal verschlüsselt lassen sich gespeicherte IP-Adressen "
+#~ "nicht mehr entschlüsseln."
+
+#~ msgid "HTTP User Agent String"
+#~ msgstr "HTTP User-Agent-String"
+
+#~ msgid "Store HTTP User Agent String"
+#~ msgstr "Speichere HTTP-User-Agent-String"
+
+#~ msgid ""
+#~ "Store the full HTTP User Agent string submitted by remote clients. This "
+#~ "information can be helpful in the idenditification of crawlers and search "
+#~ "engines."
+#~ msgstr ""
+#~ "Speichere den vollen HTTP-User-Agent-String, wie er von Endgeräten "
+#~ "übermittelt wird. Diese Information kann hilfreich sein, um damit bisher "
+#~ "unbekannte Crawler oder Suchmaschinen zu indentifizieren."
+
+#~ msgid "This option leads to a lot of additional data."
+#~ msgstr ""
+#~ "Diese Einstellung führt zu einer Menge zusätzlich gespeicherter Dateb."
+
+#~ msgid "On the other hand, this data can easily be deleted again later."
+#~ msgstr ""
+#~ "Andererseits können diese Daten auf einfache Weise wieder gelöscht werden "
+#~ "(s. Wartung)."
+
+#~ msgid "Exclude Detected Bots"
+#~ msgstr "Schließe identifizierte Bots aus"
+
+#~ msgid "Exclude empty UA strings"
+#~ msgstr "Schließe leere HTTP-UA-Strings aus"
+
+#~ msgid ""
+#~ "Exclude remote clients that do not submit any HTTP User Agent string from "
+#~ "the statistics."
+#~ msgstr ""
+#~ "Remote-Clients, die keinen HTTP-User-Agent-String übermitteln, werden von "
+#~ "der Statistik ausgeschlossen."
+
+#~ msgid ""
+#~ "If the HTTP User Agent string is not submitted, this is usually a fair "
+#~ "indication that the visitor is not a human being and/or did supresses the "
+#~ "submission by purpose."
+#~ msgstr ""
+#~ "Wenn der HTTP-User-Agent-String nicht übermittelt wird, ist dies in der "
+#~ "Regel ein sicherer Hinweis darauf, dass der Besucher nicht menschlich ist "
+#~ "bzw. dass er/sie mit Absicht diese Übermittlung blockiert."
+
+#~ msgid "Include WordPress Users"
+#~ msgstr "Schließe WordPress-Benutzer ein"
+
+#~ msgid "Include role \"%s\" in the statistics."
+#~ msgstr "Schließe die Rolle \"%s\" in die Statistik mit ein."
+
+#~ msgid ""
+#~ "By default, the visitor flow (page views) of logged-in WordPress user is "
+#~ "not recorded. You can include logged-in WordPress user with various roles "
+#~ "to the statistics."
+#~ msgstr ""
+#~ "Voreingestellt wird der Benutzerfluss (Seitenaufrufe) von eingeloggten "
+#~ "WordPress-Benutzern nicht gespeichert. Eingeloggte WordPress-Benutzer mit "
+#~ "verschiedenen Rollen können in die Statistik mit eingeschlossen werden."
+
+#~ msgid "Recorded HTTP User Agent strings"
+#~ msgstr "Aufgezeichnete HTTP User-Agent-Strings"
+
+#~ msgid "Most Visited Pages last 7 Days"
+#~ msgstr "Am häufigsten besuchte Seiten der letzten 7 Tagen"
+
+#~ msgid "Page Views and Visits in the Last 30 Days"
+#~ msgstr "Seitenaufrufe und Besuche innerhalb der letzten 30 Tage"
+
+#~ msgid "Do you really want to restart the database update process?"
+#~ msgstr "Soll das Datenbank-Update wirklich neu gestartet werden?"
+
+#~ msgid "Database update process completed."
+#~ msgstr "Datenbank-Update beendet."
+
+#~ msgid "Trigger Installer"
+#~ msgstr "Installer anstoßen"
+
+#~ msgid "Update DB tables."
+#~ msgstr "Datenbank-Tabellen updaten"
+
+#~ msgid ""
+#~ "Restart the update process for the database tables, e.g. in case of "
+#~ "inconsistancies or interrupted update mechanisms."
+#~ msgstr ""
+#~ "Neustart des Datenbank-Tabellen-Updates, z.B. im Falle von Inkonsistenzen "
+#~ "oder einem abgebrochenen Update-Prozesses."
+
+#~ msgid ""
+#~ "Data will not be affected or changed. However, it is always a safe option "
+#~ "to backup the database before any change on its structure is performed."
+#~ msgstr ""
+#~ "Daten werden dabei nicht verändert. Es ist jedoch immer  sicherer, zuvor "
+#~ "von der Datenbank ein Backup zu machen."
+
+#~ msgid "Exclude bots, crawlers, web spiders etc. from the statistics."
+#~ msgstr "Schließe Bots, Crawlers, Web Spiders etc. aus der Statistik aus."
+
+#~ msgid "Attention!"
+#~ msgstr "Achtung!"
+
+#~ msgid ""
+#~ "Make sure to chose only access levels for which you have access. "
+#~ "Otherwise you would exclude yourself from this admin area."
+#~ msgstr ""
+#~ "Nur Benutzer mit den hier eingestellten Berechtigungen haben auch Zugang "
+#~ "zum Adminbereich von WP-Visitorflow."
+
+#~ msgid "See the %s for details on capability levels."
+#~ msgstr "Auf der %s finden sich weitere Informationen."
+
+#~ msgid "WordPress Roles and Capabilities page"
+#~ msgstr "WordPress-Seite zu Rollen und -Zugangsmöglichkeiten"
+
+#~ msgid ""
+#~ "The WP VisitorFlow plugin requires at least PHP version %s, but installed "
+#~ "is version %s."
+#~ msgstr ""
+#~ "WP VisitorFlow erfordert mindestens eine  PHP-Version %s, installiert ist "
+#~ "aber nur Version %s."
+
+#, fuzzy
+#~ msgid "Filter items:"
+#~ msgstr "Erster Schritt"
+
+#~ msgid "Data aggregated for date %s"
+#~ msgstr "Daten des Tages %s aggregiert."
+
+#~ msgid "Store HTTP User Agent"
+#~ msgstr "Speichere den HTTP-User-Agent-String"
+
+#~ msgid "Storing Options"
+#~ msgstr "Speicherung"
+
+#~ msgid "Welcome to VisitorFlow"
+#~ msgstr "Willkommen bei VisitorFlow"
